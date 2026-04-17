@@ -12,7 +12,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Conjuntos. Funciones lineal y cuadrática. Sistemas de Ecuaciones. Funciones circular, exponencial y logarítmica. Polinomios. Análisis Combinatorio. Teorema del binomio. Progresiones. Método de inducción. Matrices y determinantes. Números complejos.",
       "prerequisites": []
     },
     "calculo I": {
@@ -21,7 +21,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Número, variable y función. Desigualdades. Límites. Continuidad. Derivada y diferencial. Teorema sobre las funciones derivables. Análisis de la variación de las funciones. Integrales Indefinidas.",
       "prerequisites": []
     },
     "dibujo tecnico": {
@@ -30,7 +30,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Conceptos generales del dibujo técnico. Descripción de los elementos del dibujo, trazados, letras, empalmes, técnicas de mano alzada, simbologías convencionales. Construcciones geométricas elementales, métodos de representación. Proyección.",
       "prerequisites": []
     },
     "geometria analitica y vectores": {
@@ -39,7 +39,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Sistemas de coordenadas, el eje, segmentos del eje, distancia. Vectores en el plano. La recta. La circunferencia y las secciones cónicas. Vectores en el espacio. Aplicación de los vectores del espacio a la geometría analítica. Superficies.",
       "prerequisites": []
     },
     "prevision y seguridad en el trabajo": {
@@ -48,7 +48,7 @@
       "credits": 3,
       "required_credits": 0,
       "weekly_hours": 3,
-      "desc": "",
+      "desc": "Introducción a la seguridad, higiene y medicina del trabajo, normalización y legislación específica sobre seguridad del trabajo. Órganos relacionados con la seguridad del trabajo. Análisis de estadísticas de accidentes. Normas nacionales e internacionales. Control de pérdidas y productividad, control de agentes agresivos, aspectos agronómicos y aspectos ecológicos, sistema de protección colectiva y equipamientos de protección individual. Sistemas preventivos y sistemas de combate a incendios. Riesgos inherentes a la profesión del ingeniero electricista. Seguridad en los proyectos de ingeniería eléctrica. Organización y seguridad del trabajo de la empresa. Seguridad en actividades fuera de la empresa.",
       "prerequisites": []
     },
     "quimica": {
@@ -57,7 +57,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Propiedades de la materia, teoría atómica, clasificación periódica, enlaces químicos. Energía. Principios de conservación de la energía. Electroquímica. Estados físicos y cambios de estado de la materia. Estructura de los cristales. Estudio especial sobre el Germanio, Silicio y Galio. Química orgánica.",
       "prerequisites": []
     },
     "algoritmo": {
@@ -66,7 +66,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Nociones de algoritmo. Diagrama de flujos. Programación estructurada. Aplicaciones para resolver problemas y desarrollar programas convencionales.",
       "prerequisites": []
     },
     "calculo II": {
@@ -75,18 +75,18 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Funciones de varias variables. Derivada de una función compuesta. Derivadas parciales de orden superior. Integral definida. Integrales múltiples. Series, condiciones para la convergencia. Series alternadas.",
       "prerequisites": [
         "calculo I"
       ]
     },
-    "diseno asistido por computadora": {
+    "diseño asistido por computadora": {
       "name": "Diseño Asistido por Computadora",
       "semester": 2,
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Tipos de software para aplicaciones de diseño; características, aplicaciones. Manejo de un software para diseño de circuitos, configuraciones de redes y planos edilicios. Rebatimientos.",
       "prerequisites": [
         "dibujo tecnico"
       ]
@@ -97,7 +97,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Unidades y notaciones científicas en electrotecnia. Átomo, conductores, aisladores, semiconductores, corriente, tensión, resistencias, capacitores, inductores. Ley de OHM, potencia, energía. Eficiencia en corriente continua. Conceptos generales sobre los aparatos de medida. Medidas y errores de medición. Aparatos indicadores. Aparatos registradores. Patrones y elementos normales de medida. Convertidores de medida.",
       "prerequisites": [
         "algebra"
       ]
@@ -108,7 +108,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Vectores. Movimiento de un cuerpo en una dimensión y en el plano. Dinámica de las partículas. Trabajo y energía. Conservación de la energía. Conservación de la cantidad de movimiento lineal. Colisión de partículas. Cinemática y dinámica del movimiento de rotación.",
       "prerequisites": [
         "calculo I"
       ]
@@ -119,7 +119,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Carga eléctrica. Campo eléctrico. Potencial eléctrico. Energía. Potencial eléctrico. Capacidad. Campo magnético. Magnetismo de los medios materiales. Fuerza electromotriz inducida. Circuitos eléctricos de corriente continua y alterna.",
       "prerequisites": [
         "calculo I"
       ]
@@ -130,7 +130,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción a los conceptos del cálculo numérico. Conceptos de programación para solucionarlos. Técnicas y comandos para programar en Lenguaje C.",
       "prerequisites": [
         "algoritmo"
       ]
@@ -141,7 +141,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Ecuaciones diferenciales, conceptos fundamentales. Ecuaciones de primer orden. Ecuaciones lineales de segundo orden y de orden superior. Sistemas de ecuaciones diferenciales. Ecuaciones diferenciales entre derivadas parciales.",
       "prerequisites": [
         "calculo II"
       ]
@@ -152,7 +152,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Álgebra vectorial. Rectas, propiedades sencillas de las rectas y funciones vectoriales. Funciones vectoriales de una variable real. Funciones R en R, campos escalares y vectoriales. Campos e integral de línea. Representación paramétrica de una superficie.",
       "prerequisites": [
         "calculo II",
         "geometria analitica y vectores"
@@ -164,7 +164,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Fundamentos de la teoría de los modelos circuitales idealizados. Análisis y aplicación de las leyes de circuitos eléctricos. Descripción de los modelos circuitales y las señales de excitación de uso frecuente. Propiedades, características y comportamiento de los elementos de circuitos activos, pasivos y sus combinaciones. Respuesta en régimen permanente en circuitos excitados por señales sinusoidales.",
       "prerequisites": [
         "calculo II",
         "fisica II"
@@ -176,7 +176,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Señales de excitación de uso frecuente. Introducción en CA, forma de onda senoidal, formato general para la tensión y corriente, relación de fase, valor medio, valor eficaz. La derivada: relación tensión - corriente para capacitores e inductores, potencia instantánea para cargas R-L-C individuales y combinados. Fasores. Potencia activa y potencia aparente, factor de potencia.",
       "prerequisites": [
         "electrotecnia I"
       ]
@@ -187,7 +187,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Movimientos ondulatorios. Reflexión, refracción y polarización de ondas. Geometría de las ondas,  interferencia y difracción.",
       "prerequisites": [
         "calculo II",
         "fisica II"
@@ -199,7 +199,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Vectores, fuerzas, estructuras, vínculos, cálculo de las reacciones de apoyo. Esfuerzos internos solicitantes. Esfuerzos externos solicitantes y resistentes. Estudio de las tensiones. Estado duplo. Diagrama de tensión - deformación, flexión, torsión. Estudio de torres y columnas. Estudio de conductores, influencia del vano, flecha y peso, tensión máxima permisible. Estudio de riostras. Herrajes.",
       "prerequisites": [
         "fisica I"
       ]
@@ -210,7 +210,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Álgebra de los números complejos. Funciones de una variable compleja. Funciones elementales. Funciones analíticas. Integrales. Sucesiones y series. Residuos y polos. Aplicaciones conforme.",
       "prerequisites": [
         "calculo IV"
       ]
@@ -221,7 +221,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Sistemas eléctricos considerando la potencia en sus diferentes formas. Circuitos con acoplamiento magnético. La resonancia en los circuitos. Circuitos polifásicos. Cuadripolos.",
       "prerequisites": [
         "circuitos electricos I"
       ]
@@ -232,7 +232,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Propiedades y características atómicas de los semiconductores. Estudio de dispositivos semiconductores como el diodo, transistor de juntura, transistor de efecto de campo. Características. Polarización. Dispositivos como elemento de un circuito. Modelos utilizados para su análisis. Aplicaciones.",
       "prerequisites": [
         "circuitos electricos I"
       ]
@@ -243,7 +243,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Temperatura. Calor. Presión. Sistemas termodinámicos. Ecuaciones de estado. Trabajo. Leyes de la termodinámica. Entropía.",
       "prerequisites": [
         "fisica III",
         "calculo IV"
@@ -255,7 +255,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "El electrón y su energía, absorción y emisión de fotones, niveles de energía de los átomos. Estructura atómica de elementos semiconductores. Propiedades eléctricas de los metales y sus aplicaciones. Nociones de superconductividad.",
       "prerequisites": [
         "fisica III"
       ]
@@ -266,7 +266,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Probabilidades: conceptos. Sucesos simples, independientes y compuestos. Variables aleatorias; características. El concepto de probabilidad. Probabilidades simples y compuestas. La probabilidad condicional. Aplicaciones geométricas y físicas. Métodos numéricos utilizando recursos computacionales. Estadística: Representaciones estadísticas. Muestras y distribuciones muestrales. Distribuciones de frecuencia. Distribuciones más importantes y sus características. Teorema fundamental. Análisis de regresión. Análisis de series de tiempo y pronósticos. Estimación de parámetros. Prueba de hipótesis. Análisis de varianzas. Teoría de errores. Uso de recursos computacionales en la resolución de problemas.",
       "prerequisites": [
         "calculo III"
       ]
@@ -277,7 +277,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Transformada de Laplace. Continuidad. Funciones de orden exponencial. Propiedades de la transformada de Laplace. Transformada de Laplace de integrales. Evaluación de integrales. La función Gamma. La función Bessel. Transformada inversa de Laplace. Aplicaciones de la transformada de Laplace a las ecuaciones diferenciales y a los circuitos eléctricos. Series e integrales de Fourier. Transformada de Fourier.",
       "prerequisites": [
         "calculo V"
       ]
@@ -288,7 +288,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Materiales magnéticos. Características magnéticas, componentes magnéticos y electromagnéticos. Curva de histeresis. Fuerza magnética y corriente de excitación. Corrientes de Foucault. Pérdidas debidas a corrientes parásitas. Núcleos magnéticos. Aplicaciones. Circuitos magnéticos, principios de conversión electromecánica de energía. Revisión de fundamentos de física. Transductores. Máquinas de corriente continua. Enrollamientos. Pérdidas y rendimientos. Conmutación. Excitación. Curvas características. Reacción de armadura. Interpolos. Bobinados de compensación. Operaciones en aplicaciones. Máquinas especiales. Reactores. Prácticas en laboratorio.",
       "prerequisites": [
         "fisica II"
       ]
@@ -299,7 +299,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Sistemas y códigos de numeración. Álgebra de Boole. Sistemas combinacionales y combinacionales programables.  Operaciones aritméticas. Tecnologías digitales. Sistemas secuenciales síncronos y asíncronos. Memorias. Convertidores A/D y D/A. Computadora.",
       "prerequisites": [
         "electronica I"
       ]
@@ -310,7 +310,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Respuesta en frecuencia de los amplificadores. La realimentación en los amplificadores y sus consecuencias, amplificadores de potencia, amplificadores sintonizados, amplificadores operacionales y osciladores.",
       "prerequisites": [
         "electronica I",
         "fisica V"
@@ -322,7 +322,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Cinemática de las partículas. Movimiento en una, dos y tres dimensiones. Dinámica de las partículas. Movimiento de un sistema de partículas, de cuerpos rígidos de sistemas de coordenadas. Ecuaciones de Lagrange. Vibraciones mecánicas",
       "prerequisites": [
         "fisica IV"
       ]
@@ -333,7 +333,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Componentes y materiales de las instalaciones eléctricas. Abastecimiento de energía, índices de carga, cabinas de medidores. Instalaciones residenciales y comerciales. Instalaciones hospitalarias. Proyecto de instalaciones eléctricas prediales.",
       "prerequisites": [
         "circuitos electricos II",
         "electrotecnia II"
@@ -345,7 +345,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Máquina síncrona de polos lisos, máquinas síncronas de polos salientes, máquinas asíncronas, máquinas de corriente alterna, multipolares y polifásicas, máquinas a conmutador de corriente continua. Práctica en laboratorio.",
       "prerequisites": [
         "conversion de energia electrica I"
       ]
@@ -356,7 +356,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Semiconductores de potencia: SCR, TRIAC, UJT, LDR. Estáticas, dinámicas y cálculo térmico. Rectificadores de diodo. Rectificadores de tiristores e inversores no autónomos. Estudio de la conmutación. Conversores duales y principios de ciclo conversores. Gradadores. Circuitos básicos para control de fase. Prácticas.",
       "prerequisites": [
         "electronica II"
       ]
@@ -367,7 +367,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Campo electromagnético en el vacío; análisis vectorial. Ecuaciones vectoriales y diferenciales y ecuaciones diferenciales de Maxwell en el vacío. Ecuaciones de Maxwell y condiciones de frontera para regiones materiales en estado de reposo. Campos eléctricos estáticos. Campos magnéticos estáticos.",
       "prerequisites": [
         "fisica VI"
       ]
@@ -378,7 +378,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción. Ecuaciones fundamentales de los problemas unidimensionales de transferencia de cantidad de movimiento, calor y  masa. Definiciones y conceptos fundamentales de la mecánica de fluidos. Dimensiones y unidades. Estática de los fluidos: presiones, empujes. Balance de masa integral y diferencial. Características fenomenológicas de los escurrimientos. Transferencia de calor: conducción, convección y radiación. Efecto estufa. Ventilación natural.",
       "prerequisites": [
         "fisica VI"
       ]
@@ -389,7 +389,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Dimensionamiento de transformadores. Proyectos de puestos de distribución de media tensión. Tipos de estructuras utilizadas en líneas de baja y media tensión. Líneas de media tensión aérea, subterránea y protegidas. Acometidas en media tensión. Puestos de medición. Entradas aéreas y subterráneas en media y baja tensión.",
       "prerequisites": [
         "instalaciones electricas I"
       ]
@@ -400,7 +400,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Medición y control. Control realimentado. Simbología y diagramas de instrumentación de procesos. Modos de control. Sintonía. Mediciones de variables. Elementos de regulación. Conectividad. Ventajas.",
       "prerequisites": [
         "electronica digital"
       ]
@@ -411,7 +411,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción al análisis de sistemas. Métodos matemáticos en el análisis de sistemas. Modelos matemáticos de sistemas físicos lineales y no lineales. Análisis de sistemas por el método de respuesta transitoria. Análisis de sistemas utilizando el lugar geométrico de las raíces. Análisis de sistemas por el método de respuesta en frecuencia. Análisis de sistema por el método de espacio de estado.",
       "prerequisites": [
         "calculo VI"
       ]
@@ -422,7 +422,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Filosofía y planificación de sistemas eléctricos industriales, prescripciones fundamentales, guías de proyecto. Selección de los motores eléctricos. Diagramas eléctricos unifilares: simbología, clasificación de los esquemas eléctricos, circuitos de comando de motores y de otros tipos de carga. Accionamiento de motores de velocidad variable. Accionamiento de motores c.c. vía puente semicontrolado. Accionamiento PWM; conversores de frecuencia, control realimentado.",
       "prerequisites": [
         "conversion de energia electrica II",
         "instrumentacion industrial"
@@ -434,7 +434,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Generalidades sobre distribución de energía eléctrica. Conceptos básicos. Proyecto eléctrico de redes, proyecto mecánico de redes y elaboración de proyecto de distribución de energía eléctrica primaria y secundaria aérea. Redes de distribución subterráneas. Planeamiento de distribución. Regulación de tensión. Protección de tensión en redes de distribución. Cálculo mecánico de conductores.",
       "prerequisites": [
         "fisica VII"
       ]
@@ -445,7 +445,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Componentes: Transistores de potencia, MOSSFET, IGBT, GTO, MCT.  Conversores CC-CCc. (Brick, Boost, buck-boost, Sepic, Zeta, Cuk) para 1.º y 2.º cuadrantes. Nociones de conversores CC - CA (Inversores autónomos). Principios básicos de fuentes conmutadas. Prácticas en laboratorio.",
       "prerequisites": [
         "electronica de potencia I"
       ]
@@ -456,7 +456,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Instalaciones eléctricas de emergencia. Instalaciones de pararrayos prediales. Sistemas de Puesta a Tierra. Uso racional de la energía eléctrica. Luminotecnia. Fuentes de luz, luminarias, cálculo de iluminación y de la luminancia. Proyecto de iluminación de interiores y exteriores. Proyecto telefónico, proyecto de seguridad y alarmas.",
       "prerequisites": [
         "instalaciones electricas II"
       ]
@@ -467,7 +467,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción al sistema  de control. Análisis y diseño de sistemas de control automático industrial. Análisis de errores estáticos y dinámicos. Técnicas de diseño y compensación de sistemas de control. Análisis de sistemas de control no lineales con la función descriptiva. Análisis de sistemas de control con el plano de fase. Análisis de sistemas de tiempo discreto y el método de la transformada Z. Sistemas de control óptimos adaptativos.",
       "prerequisites": [
         "sistemas de control I"
       ]
@@ -478,7 +478,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Estructura de los microprocesadores. Familia de microprocesadores. Programación de un microprocesador. Diseño de sistemas basados en microprocesador. Microcontroladores. Operaciones de entrada/salida en un microcontrolador. Control de dispositivos periféricos. Interrupciones. Diseño de sistemas basados en microcontrolador.",
       "prerequisites": [
         "electronica digital"
       ]
@@ -489,7 +489,7 @@
       "credits": 3,
       "required_credits": 0,
       "weekly_hours": 3,
-      "desc": "",
+      "desc": "Principios de administración. Administración y organización de empresas. Métodos de planificación y control. Administración financiera, administración de personal, administración de suministro, contabilidad y balance. Organización y planificación industrial, planificación y control de la producción, estudios de tiempos y sistemas. Motivación en el trabajo, liderazgo, sinergia del trabajo en equipo, evaluación o desempeño del personal, entrevista de selección.",
       "prerequisites": [
         "prevision y seguridad en el trabajo"
       ]
@@ -500,7 +500,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Relación industrial/concesionaria, normas, tensiones usuales en las industrias. Control de demanda y facturación. Instalación y protección de motores eléctricos industriales en AT, MT y BT, cuadros de control y protección, dimensionamiento de la potencia por instalar en una industria, dimensionamiento de conductores, barras, transformadores, subestaciones industriales, equipamiento y proyecto. Corrección de factor de potencia. Generación propia  de energía. Cargas especiales: hornos, soldadura eléctrica, rayos X, tracción eléctrica, etc.",
       "prerequisites": [
         "instalaciones electricas III"
       ]
@@ -511,7 +511,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Ondas planas uniformes. Propagación, polarización, reflexión, vector Poynting. Ondas estacionarias. Líneas de transmisión (LT): LT de señales y LT de potencia. Cálculos prácticos de las LT. Procesos gráficos de cálculos de las LT, operación de las líneas en régimen permanente, Inductancias, reactancias y susceptancias capacitivas de las LT.",
       "prerequisites": [
         "distribucion de energia electrica"
       ]
@@ -522,7 +522,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción. Fundamentos para la solución de circuitos. Balance de potencia. Límite de la estabilidad estática. El problema del flujo de potencia. Método de desplazamiento sucesivo. Análisis de defectos. Método de Newton - Raphson. Transitorios de conmutación. Ferro - resonancia. Sobretensiones atmosféricas, sobretensiones sustentadas. NBI, normas. Método de determinación de sobretensiones.",
       "prerequisites": [
         "electronica de potencia II"
       ]
@@ -533,7 +533,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Microcontroladores. Entradas/salidas. Control de dispositivos periféricos. Estructura, funcionamiento y programación de microcontroladores. Diseño de sistemas automatizados basados en microcontrolador. Aplicaciones.",
       "prerequisites": [
         "sistemas digitales I",
         "sistemas de control II",
@@ -546,7 +546,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Introducción. Fuentes de alimentación. Componentes: filtros, válvulas, electroválvulas, cilindros, etc. Circuitos neumáticos. Proyectos de automatización neumática. Instalación y mantenimiento: Fundamentos técnico - económicos del mantenimiento. Instalación y mantenimiento de centrales de compresión. Instalación y mantenimiento de redes de distribución. Detección de fallas en circuitos neumáticos. Mantenimiento de unidades protectoras FRL. Mantenimiento de cilindros neumáticos. Mantenimientos de válvulas direccionales, válvulas auxiliares y  accesorios. Prácticas en laboratorio.",
       "prerequisites": [
         "automatizacion industrial",
         "fisica VIII"
@@ -558,7 +558,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Centrales hidroeléctricas. Centrales termoeléctricas. Energía solar, eólica e hídrica de bajo caudal.",
       "prerequisites": [
         "lineas de transmision"
       ]
@@ -569,7 +569,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "La función de mantenimiento: Terminología y conceptos básicos. Formas de mantenimiento: correctivo y preventivo. Determinación de intervalos de intervención. Naturaleza y clasificación de los equipamientos históricos. Costos de mantenimiento. Planificación, ejecución y gerencia de mantenimiento. Tópicos: control de mantenimiento preventivo. Mantenimiento en transformadores. Mantenimiento de motores eléctricos. Mantenimiento de disyuntores/reconectores. Mantenimiento en comandos electro-electrónicos. Mantenimiento en medición y protección. Tópicos en TPM. Prácticas.",
       "prerequisites": [
         "sistemas neumaticos industriales",
         "instalacion electrica industrial"
@@ -581,7 +581,7 @@
       "credits": 3,
       "required_credits": 0,
       "weekly_hours": 3,
-      "desc": "",
+      "desc": "Principios generales, muestreos y cartas de control. Sistemas de garantías de calidad. Normalización industrial. Costos de la calidad. Acciones técnicas (J.I.T.  CEP- Kambam). Metodología de análisis y soluciones de problemas.",
       "prerequisites": []
     },
     "proteccion en sistemas electricos": {
@@ -590,7 +590,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Introducción a la protección, transformadores para instrumentos, protección de generador y motores síncronos, protección de barras, protección de líneas con relés de sobre corriente, relés de distancia, reductores de medidas y filtros, protección de línea de transmisión por relés con piloto. Protección de equipamientos contra sobretensiones; pararrayos y puesta a tierra. Coordinación de aislamiento. Protección contra sobretensiones, circuitos y métodos de ensayos de la técnica de tensiones impulsivas, modelos matemáticos elementales, respuesta del sistema a las perturbaciones, sistemas de control de tensión de excitación de máquinas generadoras, influencia del control de excitación en la estabilidad, sistemas multimáquinas, sistemas de regulación de velocidad, influencia del control de velocidad en la estabilidad, dinámica y control de generación, sistemas supervisores y controladores de procesos.",
       "prerequisites": [
         "sistemas de potencia I"
       ]
@@ -601,7 +601,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Componentes simétricos, representación de los elementos de un sistema de potencia. Ensayo de medida de impedancia de secuencia positiva y cero de transformadores de dos y tres bobinados, desplazamiento de fase en transformadores del grupo 2 (ABNT). Representación unifilar de un sistema de potencia, corto circuito en los terminales de generador de vacío. Defectos en un sistema  de potencia. Corto circuito en S.P. usando la matriz impedancia de barras.",
       "prerequisites": [
         "sistemas de potencia I"
       ]
@@ -612,7 +612,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Esquemas, diagramas. Consideraciones constructivas de una subestación. Proyecto electromecánico. Especificaciones de Equipos. Sistemas de operación, maniobra y control, local y a distancia. Interconexiones con las redes de energía eléctrica.",
       "prerequisites": [
         "lineas de transmision"
       ]
@@ -623,7 +623,7 @@
       "credits": 2,
       "required_credits": 0,
       "weekly_hours": 2,
-      "desc": "",
+      "desc": "Mercado de trabajo y sectores emergentes. Tercerización. Comportamiento emprendedor. Características emprendedoras y tipos de emprendedorismos. Oportunidades de negocios. Nichos de mercado, conceptos. Elaboración de Plan de Negocios. Análisis de mercado. Modelos de negocios, franquicia, concesiones y cooperaciones.  Estudio de casos y visitas a empresas. Administración y marketing. Emprendedorismo social.",
       "prerequisites": []
     },
     "derecho": {
@@ -632,7 +632,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "El derecho. Principales acepciones. Los valores jurídicos. El derecho natural. El estado. El estado y la nación. El gobierno. El derecho constitucional. La relación jurídica. Los derechos reales. El derecho administrativo. El derecho laboral. El derecho civil contractual. Tratados binacionales.",
       "prerequisites": [
         "administracion y recursos humanos"
       ]
@@ -643,7 +643,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Naturaleza del conocimiento económico. Evolución del pensamiento económico. Morfología de la actividad económica. Los factores de la producción y su papel en el sistema económico. Las unidades productoras del sistema económico. Estructura y finalidad del sistema monetario. Sector público. Teoría y organización del comercio internacional. Producción, renta y evaluación de actividades económicas. Coyuntura  económica. Desenvolvimiento económico. Economía de equilibrio. Matemática financiera: calculo de tasas de intereses, descuentos, capitalizaciones y depreciaciones. Introducción al análisis de inversiones. Conceptos y  principios. Métodos determinísticos de análisis de inversiones: valor actual, periódicos, TIR y vida de retorno. Flujos de caja en proyectos empresariales.",
       "prerequisites": [
         "administracion y recursos humanos"
       ]
@@ -654,7 +654,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Composición de un sistema eléctrico de potencia, caracterización  del mercado de energía eléctrica. Caracterización de la producción y el consumo de energía eléctrica: Curvas de carga, factores de carga, demanda, capacidad, utilización y diversidad. Planeamiento de la producción y operación: Curva de duración, curva demanda - energía. Comercialización de energía eléctrica: Factor de potencia, técnicas de conservación.Aplicaciones de análisis económica en ingeniería eléctrica: inversiones en el sector; costos de tarifado y sustitución de equipamientos. Proyectos empresariales en ingeniería eléctrica. Concepto, dimensionamiento, programación, análisis de múltiples alternativas (métodos probabilísticos), financiamiento. Visión general de los problemas económicos, formación de precios. Orientación de la actividad económica. Análisis de monopolio de energía eléctrica.",
       "prerequisites": [
         "subestaciones"
       ]
@@ -665,7 +665,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Mediciones de la energía eléctrica. Tipos de medidores, monofásicos, trifásicos. Principios de funcionamiento. Instrumentos de medidas transformadores de corriente y potencial. Medidores de potencia activa (demanda máxima) Tarifas de energía eléctrica. Ajuste contraste y conexiones de medidores. Medidores de energía activa. Medidores de energía reactiva.",
       "prerequisites": [
         "proteccion en sistemas electricos"
       ]
@@ -676,7 +676,7 @@
       "credits": 17,
       "required_credits": 0,
       "weekly_hours": 17,
-      "desc": "",
+      "desc": "Elaboración del trabajo conforme al avance y seguimiento de los asesores, justificando los trabajos de campo conforme a la carga horaria requerida. Pasantia supervisada de 120 Hs. Defensa del proyecto ante la mesa examinadora. Para iniciar las actividades del Proyecto de Trabajo de Grado, se deberá realizar como mínimo tres actividades diferentes de extensión universitaria, con una carga horaria mínima de 90 hs, ajustándose al Reglamento de Extensión Universitaria vigente de la UNA.",
       "prerequisites": [
         "sistemas digitales II",
         "mantenimiento industrial",
