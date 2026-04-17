@@ -12,7 +12,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Atmósfera estándar. Avión. Generalidades. Estructura. Instalaciones del Avión. Ala. Flujo del aire y sus efectos aerodinámicos. Similitud y resistencia. Fuerza aerodinámica. Curvas características de un ala. Hipersustentadores, hélices y túneles. Estabilidad y performance. Movimiento general del avión. Estado de vuelos casi estacionarios. Performance en altura. Alcance y autonomía. Despegue y aterrizaje.",
       "prerequisites": []
     },
     "algebra": {
@@ -21,7 +21,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Conjuntos. Funciones lineales y cuadráticas. Sistemas numéricos. Funciones circulares. Funciones exponenciales y logarítmicas. Polinomios. Teoría del binomio. Método de inducción. Matrices y determinantes. Números complejos.",
       "prerequisites": []
     },
     "calculo I": {
@@ -30,7 +30,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Número, variable y función. Desigualdades. Límites. Continuidad. Derivada y diferencial. Teorema sobre las funciones derivables. Análisis de la variación de las funciones.",
       "prerequisites": []
     },
     "geometria analitica y vectores": {
@@ -39,7 +39,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Sistemas de coordenadas rectangulares y polares en el plano. Vectores en el plano. La recta. La circunferencia. Secciones cónicas. Vectores en el espacio. Aplicaciones de los vectores del espacio a la geometría analítica. Superficies.",
       "prerequisites": []
     },
     "quimica": {
@@ -48,7 +48,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Propiedades de la materia, teoría atómica, clasificación periódica, enlaces químicos. Energía, principios de conservación de la energía. Electroquímica. Estados físicos y cambios de estado de la materia. Química orgánica.",
       "prerequisites": []
     },
     "dibujo tecnico mecanico": {
@@ -57,7 +57,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Proyecciones de piezas, vistas principales, vistas especiales, vistas auxiliares, rotación de faces oblicuas, proyecciones, cotas, cortes, roscas, diseño de conjuntos, diseño de descripción de proceso de fabricación.",
       "prerequisites": []
     },
     "ciencia y tecnologia del medio ambiente": {
@@ -66,7 +66,7 @@
       "credits": 3,
       "required_credits": 0,
       "weekly_hours": 3,
-      "desc": "",
+      "desc": "Ecosistemas. Estructura y funcionamiento. Ciclos de los nutrientes. Implicaciones para el hombre. Principios del sostenimiento de los ecosistemas. El ecosistema del suelo y su gestión. El ciclo del agua y su gestión. Residuos. Clasificación y Normativa general. Residuos urbanos y lodos de depuradora. Características y gestión. Residuos Industriales y Peligrosos. Características y gestión. Tratamiento de residuos. Vertederos y sus características. Legislación específica. Compostaje. Valoración de residuos. Tratamientos anaerobios y procesos térmicos para producción de energía. Inertización de residuos peligrosos. La contaminación de las aguas. Parámetros de calidad y de contaminación de aguas. Normativa. Agua para consumo, agua industrial, aguas residuales urbanas e industriales. Procesos físico químicos en el tratamiento del agua: Sedimentación, coagulación-floculación, precipitación, flotación filtración, separación por membranas, absorción, intercambio iónico, oxidación y desinfección. Procesos biológicos en el tratamiento, eliminación de fósforo: Fundamentos, estequiemitría y cinéticas, procesos de fangos activos  y de biomasa adheridas a soporte. Aplicaciones en sectores industriales. La contaminación del aire. La atmósfera, su contaminación y normativa. Efectos locales: smog fotoquímico. Efectos planetarios de la contaminación: Lluvia ácida, calentamiento mundial, deterioro de la capa de ozono. Procesos de  eliminación de partículas en el tratamiento del aire: Ciclones, filtros electrostáticos, filtros de mangas. Procesos físico-químicos y biológicos de eliminación de gases en el tratamiento del aire: Dióxido de azufre, ácido sulfídrico, compuestos orgánicos volátiles.",
       "prerequisites": []
     },
     "ingles I": {
@@ -75,7 +75,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Gramática básica. Lectura comprensiva de Capítulos o párrafos  técnicos en inglés. (Reading and listening). Desarrollo de cada  Capítulo o párrafo.",
       "prerequisites": []
     },
     "prevision y seguridad en el trabajo": {
@@ -84,7 +84,7 @@
       "credits": 3,
       "required_credits": 0,
       "weekly_hours": 3,
-      "desc": "",
+      "desc": "La Seguridad y el trabajo: Antecedentes Históricos, Legislativos. Alcance y objetivos.  Definiciones. Legislación vigente nacional e Internacional. Higiene Industrial: Definiciones, Alcance y objetivos. Higiene en el trabajo, Métodos de reconocimiento, Métodos de Evaluación y Análisis, Sistemas de Control de Riesgos Factores de Riesgos Físicos. Factores de Riesgos Químicos. Factores de Riesgos Biológicos. Sistemas de gestión de Riesgos del trabajo. Incendios y Siniestros. Riesgos en las actividades. Planes de Contingencia y Acciones ante emergencias.",
       "prerequisites": []
     },
     "algebra lineal": {
@@ -93,7 +93,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Espacios Vectoriales y Álgebra de Matrices. Distintos tipos de sistemas de ecuaciones lineales. Conjunto de los Espacios Vectoriales. Matemática en espacios de dimensión.",
       "prerequisites": [
         "algebra",
         "geometria analitica y vectores"
@@ -105,7 +105,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Nociones de algoritmo. Diagrama de flujos. Programación estructurada. Aplicaciones para resolver problemas y desarrollar programas convencionales.",
       "prerequisites": [
         "algebra"
       ]
@@ -116,7 +116,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Funciones de varias variables. Derivada de una función compuesta. Derivadas parciales de orden superior. Integral indefinida. Integral definida. Integrales múltiples. Series: condiciones para la convergencia de una serie. Series alternadas.",
       "prerequisites": [
         "calculo I",
         "geometria analitica y vectores"
@@ -128,7 +128,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Con una introducción sobre vectores, estudia los movimientos de un cuerpo en una dimensión y en un plano; dinámica de las partículas; trabajo y energía; conservación de la energía; conservación de la cantidad de movimiento lineal; colisión de partículas; cinemática y dinámica del movimiento rotacional",
       "prerequisites": [
         "calculo I"
       ]
@@ -139,7 +139,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Carga eléctrica. Campo eléctrico. Potencial  eléctrico. Energía potencial eléctrica. Capacidad. Campo magnético. Magnetismo de los medios materiales. Fuerza electromotriz inducida. Circuitos eléctricos de corrientes continua y alterna.",
       "prerequisites": [
         "calculo I"
       ]
@@ -150,7 +150,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Dimensionamiento, ajustes y definición de tolerancias, mediciones y utilización de unidades padronizadas, utilización de instrumentos convencionales, paquímetros, micrómetros, medición de planicidad y aspereza superficial, principios de control de calidad, realización de mediciones tridimensionales.",
       "prerequisites": [
         "dibujo tecnico mecanico"
       ]
@@ -161,7 +161,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Gramática – Tiempos verbales. Lectura comprensiva de Capítulos o párrafos  técnicos en inglés, de temas relacionados con la carrera. Desarrollo de cada  Capítulo o párrafo.",
       "prerequisites": [
         "ingles I"
       ]
@@ -172,7 +172,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Ecuaciones diferenciales, conceptos fundamentales. Ecuaciones de primer orden. Ecuaciones lineales de segundo orden. Sistemas de ecuaciones de primer orden. Ecuaciones diferenciales entre derivadas parciales.",
       "prerequisites": [
         "calculo II"
       ]
@@ -183,7 +183,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Álgebra vectorial. Rectas: propiedades sencillas de las rectas y funciones vectoriales. Funciones vectoriales de una variable real. Funciones R en R, campos escalares y vectoriales. Campos e integral de línea. Representación paramétrica de una superficie.",
       "prerequisites": [
         "calculo II"
       ]
@@ -194,7 +194,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Fundamentos de la teoría de los modelos circuitales idealizados. Análisis y aplicación de las leyes de circuitos eléctricos. Descripción de los modelos circuitales y las señales de excitación de uso frecuente. Propiedades, características y comportamiento de los elementos de circuitos activos, pasivos y sus combinaciones. Respuesta en régimen permanente en circuitos excitados por señales sinusoidales.",
       "prerequisites": [
         "calculo II",
         "fisica II"
@@ -206,7 +206,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Constitución interna de los átomos, los principios de los enlaces moleculares, y la constitución del estado cristalino de los materiales. Medios analíticos para la caracterización de los materiales y sus imperfecciones, el comportamiento del material a las acciones energéticas externas mecánicas y térmicas en los materiales, los diferentes sistemas de aleaciones de mayor aplicación en la industria aeronáutica. Comportamiento de los materiales metálicos, poliméricos, cerámicos utilizados en las piezas, partes o elementos estructurales y no estructurales de las aeronaves. Tensiones. Confiabilidad. Métodos experimentales. Corrosión. Efectos de la corrosión sobre las propiedades mecánicas y sobre el mecanismo de fatiga. Protección contra la corrosión. Identificación y tratamiento. Radiación. Tipos de radiación. Efectos de la radiación sobre las propiedades mecánicas. Mecanismos de interacción con la materia. Efectos sobre las propiedades mecánicas, aplicación para la investigación. Análisis de falla.",
       "prerequisites": [
         "fisica II",
         "quimica"
@@ -218,7 +218,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Equilibrio de cuerpos isostáticos. Manejo perfecto del diagrama de cuerpo libre.  Las propiedades y ubicación del centro de gravedad de las superficies.  Calculo de los momentos de primer y segundo orden, determinación de los ejes de inercia y ejes principales de inercia.  El estudio de los esfuerzos interiores en los enrejados planos articulados y en las vigas de alma llena. – Calculo de las solicitaciones de corte y flexión en vigas. – Cálculo de los esfuerzos a que están sometidas las estructuras reticuladas planas y espaciales. –Introducción al equilibrio y esfuerzos interiores en el espacio. Cálculos de flujos de corte en secciones de las estructuras .Calculo del flujo de corte por corte. Flujos de corte en elementos no planos.  Determinación de la posición del centro de corte. Determinación de los flujos de corte en secciones cerradas. Viga cajón solicitada a torsión y a flexión.",
       "prerequisites": [
         "algebra lineal",
         "fisica I"
@@ -230,7 +230,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Características de resistores, condensadores y bobinas. Medidores de cantidades eléctricas. Mediciones con el multímetro. Uso del óhmetro para mediciones de resistencias y semiconductores. Uso del voltímetro electrónico. Manejo del osciloscopio. Comparación entre instrumentos de medición.",
       "prerequisites": [
         "fisica II",
         "quimica"
@@ -242,7 +242,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción a los conceptos del análisis numérico. Conceptos de programación para solucionarlos. Técnicas y comandos para programar en Lenguaje C.",
       "prerequisites": [
         "algoritmo"
       ]
@@ -253,7 +253,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Las cátedras Inglés III al VI se basarán en habilidades prácticas de lectura, escritura, escucha y habla  con términos técnicos específicos del  contexto de la Ingeniería aeronáutica.",
       "prerequisites": [
         "ingles II"
       ]
@@ -264,7 +264,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Álgebra de los números complejos. Funciones de una variable compleja. Funciones elemental. Funciones analítica. Integrales. Sucesiones y series. Residuos y polos.",
       "prerequisites": [
         "calculo IV"
       ]
@@ -275,7 +275,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Sistemas eléctricos considerando la potencia en sus diferentes formas. Circuitos con acoplamiento magnético. La resonancia en los circuitos. Los circuitos polifásicos. Cuadripolos.",
       "prerequisites": [
         "circuitos electricos I"
       ]
@@ -286,7 +286,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Ventajas del CAD/CAM. Diseño de piezas. Conversión del diseño al lenguaje de la máquina. Simulación de maquinado de piezas virtual. Software tipo CATIA.",
       "prerequisites": [
         "programacion",
         "principios de metrologia industrial"
@@ -298,7 +298,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Conceptos y análisis de los fenómenos físicos: De los diodos semiconductores y su aplicación en fuentes de alimentación. De los transistores, circuitos y sus aplicaciones. De los circuitos electrónicos y sus aplicaciones. De los circuitos integrados y sus aplicaciones. La realimentación por medio de circuitos. De los dispositivos de conmutación y sus aplicaciones. De los sistemas digitales y sus aplicaciones. La conversión de sistemas análogos a digitales. De la modulación de señales y sus aplicaciones en las comunicaciones. Interpretación de lecturas e instrumentos de laboratorio de electrónica.",
       "prerequisites": [
         "principios de electronica"
       ]
@@ -309,7 +309,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Estadística descriptiva: introducción, presentación de datos. Medidas características, momentos. Estadística inductiva: probabilidad, posición frecuencial, axiomas y teoremas. Variables aleatorias, función masa de probabilidad, función densidad de probabilidad, función de distribución, parámetros. Modelos matemáticos, distribución binomial, de Poisson, normal, exponencial, t de student, muestreos, distribuciones de muestreos, estimación, prueba de hipótesis.",
       "prerequisites": [
         "calculo III"
       ]
@@ -320,7 +320,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Movimientos ondulatorios. Reflexión, refracción y polarización de ondas. Geometría de las ondas, interferencia y difracción. Modelo del atomo de Rutherford. Espectros atómicos. Rayos X. Introducción a la mecanica cuántica. Efecto fotoeléctrico, efecto Compton, radiación del cuerpo negro.",
       "prerequisites": [
         "fisica II",
         "calculo III"
@@ -332,7 +332,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Sistemas termodinámicos. Ecuaciones de estado. Trabajo. Leyes  de la termodinámica. Entropía.",
       "prerequisites": [
         "calculo III"
       ]
@@ -343,7 +343,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Cinemática de las partículas. Movimientos en una, dos y tres dimensiones. Dinámica de las partículas. Movimiento de un sistema de partículas, de cuerpos rígidos, de sistemas de coordenadas. Ecuaciones de Lagrange. Vibraciones mecánicas.",
       "prerequisites": [
         "fisica I",
         "calculo III"
@@ -355,7 +355,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Esfuerzo y deformación: carga axial, ensayo de tracción. Esfuerzo y deformación por efectos térmicos. Esfuerzos en recipientes de pared delgada que almacenan fluidos a una presión interna. Esfuerzos en planos inclinados, transformaciones de esfuerzo y deformación. Esfuerzos principales bajo cargas. Uso del círculo de MOHR para soluciones  Torsión, principios y aplicaciones en mecanismos en general. Vigas y teoría de la flexión pura.  Análisis y diseño de vigas por flexión. Esfuerzos de tracción y/o compresión, esfuerzos cortantes. Elementos de pared delgada y flujo cortante.  Deformaciones en vigas, Pendientes y Deflexiones en vigas. Métodos de solución. Columnas, teoría y aplicaciones de métodos de solución. Cálculos y aplicaciones. Columnas, teoría y aplicaciones de métodos de solución. Cálculos y aplicaciones en elementos Aeronáuticos.",
       "prerequisites": [
         "mecanica de materiales"
       ]
@@ -366,7 +366,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Las cátedras Inglés III al VI se basarán en habilidades prácticas de lectura, escritura, escucha y habla  con términos técnicos específicos del  contexto de la Ingeniería aeronáutica.",
       "prerequisites": [
         "ingles III"
       ]
@@ -377,7 +377,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Transformada de Laplace. Continuidad. Funciones de orden exponencial. Propiedades de la transformada Laplace. Transformada de Laplace de integrales. Evaluación de integrales. La función Gamma. La función Bessel. Transformada inversa de Laplace, aplicación en ecuaciones diferenciales y circuitos eléctricos. Series e integrales de Fourier. Transformada de Fourier.",
       "prerequisites": [
         "calculo V"
       ]
@@ -388,7 +388,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Materiales utilizados en la industria aeronáutica. Requisitos generales. Consideraciones Técnicas y económicas. Aceros y sus aleaciones. Aluminio y sus aleaciones. Magnesio y sus aleaciones. Efectos dinámicos y térmicos. Velocidad de aplicación de carga/deformación. Post efecto elástico. Flujo viscoso. Modelos mecánicos. Fluencia y fractura. Rango de temperaturas (alta y baja). Transición dúctil-frágil. Triaxilidad: efecto y sensibilidad de entalla. Creep. Componentes fundamentales Relajamiento de tensiones. Métodos de predicción de vida por Creep. Métodos paramétricos. Métodos experimentales. Fatiga. Tipos de carga. Mecanismos de fatiga. Naturaleza estadística de la fatiga. Métodos estadísticos. Propiedades de fatiga. Criterios de diseño. Teoría de daño acumulado. Factores influyentes en la vida a fatiga. Concentración de Tensiones. Confiabilidad. Métodos experimentales. Ensayos no destructivos. Discontinuidad y defectos. Calidad, normalización. Definición de la calidad. Método. Ensayo visuales. Líquidos penetrantes. Partículas magnetizables. Radiografías. Ultrasonido. Corriente inducida. Eddy Current.",
       "prerequisites": [
         "introduccion a la ciencia de materiales",
         "resistencia de materiales"
@@ -400,7 +400,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción: características y propiedades de los materiales. Elementos de máquinas, Piezas, Mecanismos, Maquina Motor, Uniones Remachadas, Uniones Atornilladas, transmisiones Flexibles, Engranajes, Acoplamientos, Rodamientos, Lubricantes, Empaquetaduras, Soldadura, Resortes, Cables, Perfiles estructurales, tuberías. Aplicaciones de la Ingeniería Aeronáutica",
       "prerequisites": [
         "mecanica clasica"
       ]
@@ -411,7 +411,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Ecuaciones de equilibrio. Ecuaciones de Campo. Ecuaciones de Compatibilidad. Relaciones Constitutivas. Círculo de Mohr 3D. Esfuerzos combinados. Transmisión de esfuerzos. Placas Planas. Placas Rectangulares. Método de las deformaciones. Barras. Casos de barras Articuladas. Sistemas de barras y vigas. Pórticos. Variación de temperatura y desplazamientos de apoyos. Reticulados indeterminados.  Pandeo. Inestabilidad elástica de componentes estructurales y estructuras esbeltas. Criterio estático y energético. Barras con segmentos rígidos y articulaciones elásticas.",
       "prerequisites": [
         "resistencia de materiales"
       ]
@@ -422,7 +422,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Fundamentos de las máquinas eléctricas. Características de los motores y generadores CC. Características y funcionamiento de los motores y generadores CA.",
       "prerequisites": [
         "circuitos electricos II"
       ]
@@ -433,7 +433,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Propiedades de los fluidos. Cinemática de los fluidos. Dinámica de los fluidos (1) (Leyes básicas aplicadas al volumen de control).Dinámica de los fluidos (2) (Leyes básicas aplicadas a los sistemas). Análisis dimensional y similitud. Estática de los fluidos. Movimiento y rotacional axisimétrico de un fluido ideal. Movimiento de los fluidos viscosos incompresibles. Análisis del movimiento desde el punto de vista de la vorticidad. Movimiento de los fluidos ideales. Movimiento potencial bidimensional. Flujo externo con fricción: sustentación y resistencia. Análisis experimental.",
       "prerequisites": [
         "calculo IV",
         "fisica IV"
@@ -445,7 +445,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción a la físico-química. Potenciales termodinámicos, potencial químico. El gas ideal, diagrama de fase de sustancias puras. Elementos de mecánica estadística.",
       "prerequisites": [
         "fisica IV",
         "introduccion a la ciencia de materiales"
@@ -457,7 +457,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Las cátedras Inglés III al VI se basarán en habilidades prácticas de lectura, escritura, escucha y habla  con términos técnicos específicos del  contexto de la Ingeniería aeronáutica.",
       "prerequisites": [
         "ingles IV"
       ]
@@ -468,7 +468,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Ecuaciones de equilibrio. Ecuaciones de Campo. Ecuaciones de Compatibilidad. Relaciones Constitutivas. Círculo de Mohr 3D. Esfuerzos combinados. Transmisión de esfuerzos. Placas Planas. Placas Rectangulares. Método de las deformaciones. Barras. Casos de barras Articuladas. Sistemas de barras y vigas. Pórticos. Variación de temperatura y desplazamientos de apoyos. Reticulados indeterminados.  Pandeo. Inestabilidad elástica de componentes estructurales y estructuras esbeltas. Criterio estático y energético. Barras con segmentos rígidos y articulaciones elásticas.",
       "prerequisites": [
         "estructura aeronautica I",
         "caracterizacion de materiales"
@@ -480,7 +480,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Estudio de los perfiles en fluido ideal incompresible. Análisis de cuerpos fuselados en fluidos ideal incompresibles. Teoría de la capa límite. Aplicaciones al diseño de perfiles alares y cuerpos fuselados. Métodos de cálculos para la sustentación. Teoría de la superficie sustentadora y método de la red vórtice. Configuraciones aerodinámicas más complejas. Estudio y análisis de la resistencia aerodinámica en los aviones. Hipersustentadores, descripción de sistemas y técnicas experimentales. Efectos de la compresibilidad en perfiles alares, cuerpos fuselados y alas finitas. Régimen transónicos. Aerodinámica de la hélice. Medición del Coeficiente de Resistencia (CD) de un perfil en laboratorio, montaje del sistema y experiencias.",
       "prerequisites": [
         "mecanica de fluidos I"
       ]
@@ -491,7 +491,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Dinámica de los gases unidimensionales estacionaria. Teoría de las características. Dinámica de los gases unidimensional inestacionaria. Movimiento bidimensionales y tridimensionales de los fluidos ideales compresibles: casos subsónicos y transónicos. Capa límite compresible. Flujo hipersónico.",
       "prerequisites": [
         "mecanica de fluidos I"
       ]
@@ -502,7 +502,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción al análisis de sistemas. Métodos matemáticos en el análisis de sistemas. Modelos matemáticos de sistemas físicos lineales y no lineales. Análisis de sistemas por el método de respuesta transitoria. Análisis de sistemas utilizando el lugar geométrico de las raíces. Análisis de sistemas por el método de respuesta en frecuencia, Análisis de sistema por el método de espacio de estado.",
       "prerequisites": [
         "calculo VI"
       ]
@@ -513,7 +513,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Termodinámica de soluciones. Diagrama de fase de sistemas de aleaciones binarias. Aleaciones base hierro. Aleaciones base cobre, zinc. Aleaciones base aluminio. Sistemas multicomponentes y los subsistemas que existen en los vehículos aeroespaciales.",
       "prerequisites": [
         "termodinamica de materiales I"
       ]
@@ -524,7 +524,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Las cátedras Inglés III al VI se basarán en habilidades prácticas de lectura, escritura, escucha y habla  con términos técnicos específicos del  contexto de la Ingeniería aeronáutica.",
       "prerequisites": [
         "ingles V"
       ]
@@ -535,7 +535,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Estabilidad estática de mando longitudinal. Fuerzas en los mandos. Estabilidad estática y mandos direccionales. Mando lateral. Acciones derivadas del movimiento simétrico. Acciones derivadas del movimiento asimétrico. Ecuaciones generales del movimiento del avión. Estabilidad dinámica longitudinal. Estabilidad dinámica transversal. Maniobras. Efectos de la compresibilidad en la estabilidad y mandos. Aeronaves de ala giratoria. Cohetes.",
       "prerequisites": [
         "aerodinamica I",
         "mecanica de fluidos II"
@@ -547,7 +547,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Pandeo en barras con secciones de chapas delgadas. Secciones cerradas: tubos rectangulares y cuadrados. Secciones cualesquiera con lados planos. Inestabilidad de Componentes Estructurales. Estructuras monocasco. Flexión y corte. Monocelda y biceldas. Materiales compuestos. Esfuerzos combinados en placas. Flujo de corte en secciones abiertas semimonocasco. Esfuerzos internos en estructuras de chapa con refuerzos. Tensiones normales y tangenciales para el caso de flexión. Secciones abiertas y cerradas. Torsión en secciones cerradas. Centro de corte. Flujo de corte en secciones cerradas semimonocasco. Análisis de estructuras semimonocascos. Flujo de corte. Centro de corte. Ala de tres cordones y multicordón. Fuselaje, monocelda y multiceldas. Estructuras ahusadas y multiceldas. Estructuras con variación de la sección. Efecto de las aberturas en la distribución de esfuerzos.",
       "prerequisites": [
         "estructura aeronautica II"
       ]
@@ -558,7 +558,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Conceptos generales. Arquitectura de motores alternativos, componentes principales de un motor alternativo. Combustión. Formula de combustión para elementos simples e hidrocarburos. Ciclos Ideales en aire combustible. Ciclos reales. Generalidades.  Cinemática y dinámica del motor. Orden de encendido y equilibraje. Vibraciones torsionales aplicada a motores multicilindros. Refrigeración. Bancos de pruebas y procedimientos de ensayo. Sistemas auxiliares y mantenimiento de motores alternativos.",
       "prerequisites": [
         "maquinas electricas",
         "termodinamica de materiales II",
@@ -571,7 +571,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción al sistema de control. Análisis y diseño de sistemas de control automático industrial. Análisis de errores estáticos y dinámicos. Técnicas de diseño y compensación de sistemas de control. Análisis de sistemas de control no lineales con la función descriptiva. Análisis de sistemas de control con el plano de fase. Análisis de sistemas de tiempo discreto y el método de la transformada Z. Sistemas de control ópticos adaptativos.",
       "prerequisites": [
         "sistemas de control I"
       ]
@@ -582,7 +582,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Naturaleza del conocimiento económico. Evolución del pensamiento económico. Morfología de la actividad económica. Los factores de la producción y su papel en el sistema económico. Las unidades productoras del sistema económico. Estructura y finalidad del sistema monetario. Sector público. Teoría y organización del comercio internacional. Producción, renta y evaluación de actividades económicas. Coyuntura  económica. Desenvolvimiento económico. Economía de equilibrio. Matemática financiera: calculo de tasas de intereses, descuentos, capitalizaciones y depreciaciones. Introducción al análisis de inversiones. Conceptos y  principios. Métodos determinísticos de análisis de inversiones: valor actual, periódicos, TIR y vida de retorno. Flujos de caja en proyectos empresariales.",
       "prerequisites": [
         "aeronautica general",
         "algebra",
@@ -644,7 +644,7 @@
       "credits": 6,
       "required_credits": 0,
       "weekly_hours": 6,
-      "desc": "",
+      "desc": "Diseño de elementos estructurales típicos del avión: costilla, cuadernas. Flexión diferencial. Efecto de las aberturas en la distribución de esfuerzos. Cajón alar, fuselaje y costillas. Estructura de ala. Análisis de las tensiones. Comportamiento de los elementos componentes del avión. Cajón alar y fuselaje. Estructura de fuselaje: análisis de tensiones, comportamiento de estos elementos. Estructuras soporte de motores y tren de aterrizaje. Viga Principal del ala. Campo de tensión diagonal. Aplicación al cálculo de vigas con alma plana y curva. Análisis de problemas especiales. Transmisión de las cargas aerodinámicas a las estructuras del avión.",
       "prerequisites": [
         "diseno y manufactura asistido por computadora",
         "estructura aeronautica III"
@@ -656,7 +656,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Principio de propulsión a chorro. Empuje y eficiencias de propulsores. Performance de propulsores en punto de diseño. Máquinas rotantes. Compresor centrífugo. Compresores axiales. Cámara de combustión. Proceso de funcionamiento de la cámara de combustión.  Turbinas. Sistemas y mantenimiento de motores a reacción.",
       "prerequisites": [
         "motores I"
       ]
@@ -667,7 +667,7 @@
       "credits": 7,
       "required_credits": 0,
       "weekly_hours": 7,
-      "desc": "",
+      "desc": "Líneas de transmisión: Aspectos generales, diversos tipos, cálculo de parámetros característicos Propagación de las ondas Modulación: concepto, generalidades. De amplitud. De frecuencia. Pulsos. De fase.4 De espectro extendido. Clasificación O.A.C.I .Transmisores y Receptores: Para comunicación aeronáutica, generalidades. Concepto de Navegación y Circulación aérea. Propósito de la navegación aérea, la ecuación de navegación. Factor de dilución. El Sistema de Navegación Aérea. Cartografía digital. Sistema Radiogoniométrico  El Sistema de Aterrizaje Instrumental I.L.S: Fundamentos del método. Sistema de Posicionamiento Global /G.P.S/“: Fundamentos del método. La técnica del Radar primario: El radar de Vigilancia (P.S.R). Aspectos particulares. El radar Meteorológico (P.M.R). Consideraciones particulares.  El Radio Altímetro. Consideraciones particulares. La Técnica del Radar Secundario El medidor de distancias “/D.M.E/ El Radar Secundario de Vigilancia “/S.S.R/ “. Aspectos particulares, fundamentos del método Los Sistemas Autónomos: Doppler, Inercial: El sistema doppler. El Navegador Inercial: Introducción El Vuelo Automático: Introducción. Modos de operación típicos y especiales. Estabilización de Ladeo. Estabilización de velocidad. Los Sistemas como Sensores. El Control de Vuelo. Evolución del SNA.",
       "prerequisites": [
         "electronica aplicada",
         "fisica III",
@@ -680,7 +680,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Historia y desarrollo de las aeronaves. Clasificación y requerimientos sobre las aeronaves de acuerdo a las normativas vigentes. Procedimientos generales para el desarrollo de un anteproyecto. Requerimientos aplicables a la certificación aeronáutica: DINAC 21, DINAC 22, DINAC 23 (FAR 23). Determinación de las cargas sobre elementos estructurales de acuerdo a los requerimientos. Ensayos estáticos de elementos estructurales. Tipos de uniones. Métodos de construcción de aeronaves.",
       "prerequisites": [
         "aerodinamica II",
         "estructura aeronautica IV"
@@ -692,7 +692,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Organismos y regulaciones del mantenimiento aeronáutico. La autoridad nacional. La autoridad extranjera. DINAC, FAR, JAR. Regulaciones  de  Aeronavegabilidad y licencias. Código aeronáutico. Convenio  de Chicago. Niveles de Mantenimiento: preventivo, correctivo, predictivo, alteraciones e inspecciones. Mantenimiento de línea aérea. Organización y responsabilidades: Inserción del mantenimiento en la empresa aerocomercial. Misión. Indicadores de gestión. Niveles de decisión. Políticas. Funciones esenciales: Ingeniería, Control de Calidad, Producción, Gestión del Material. Planes de mantenimiento (criterios hard time, on condition, condition monitoring), programación de tareas, vigilancia continua. Presupuesto y control de costos. Centro de mantenimiento. El mantenimiento como servicio tercerizado o unidad de negocios, estudio de factibilidad técnico económica. Tratamiento como proyecto de inversión. Capacidad operativa, ratings. Caso de estudio. Accidentología. Concepto de incidente y accidente. Metodología de investigación. Desarrollo de un caso tipo. Programa MRM. Filosofía e implementación",
       "prerequisites": [
         "motores II"
       ]
@@ -703,7 +703,7 @@
       "credits": 4,
       "required_credits": 0,
       "weekly_hours": 4,
-      "desc": "",
+      "desc": "Mercado de trabajo y sectores emergentes. Tercerización. Comportamiento emprendedor. Características emprendedoras y tipos de emprendedorismos. Oportunidades de negocios. Nichos de mercados, conceptos. Elaboración de Plan de Negocios. Análisis de mercado. Modelos de negocios, franquicia, concesiones y cooperaciones. Estudios de casos y visitas a empresas. Administración y marketing. Emprendedorismo social.",
       "prerequisites": [
         "economia y finanzas"
       ]
@@ -714,7 +714,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Gestión de la operación de aeropuertos, la explotación, funcionamiento y  mantenimiento de aeropuertos. Los Aeropuertos en el Sistema de Transporte, sus características. Modos de transporte. Evolución y desarrollo del transporte aéreo.  Modelos de propiedad aeroportuaria. Propósito y Obligaciones. Su funcionamiento. Tipos de aeropuertos y helipuertos. Aeropuertos terminales y de tránsito. Las redes mundiales de aeropuertos. Planificación. Espacio aéreo. Emplazamiento. Diseño geométrico. Performance de vuelo. Limitaciones operacionales de performance.",
       "prerequisites": [
         "gestion de mantenimiento y reparacion I"
       ]
@@ -725,7 +725,7 @@
       "credits": 8,
       "required_credits": 0,
       "weekly_hours": 8,
-      "desc": "",
+      "desc": "Descripción general del avión. Estructura del avión. Introducción a los sistemas. Aire acondicionado y presurización. Piloto automático. Unidad de potencia auxiliar. Comunicaciones. Eléctrico. Motores. Protección y alerta de incendios. Controles para el vuelo del avión. Combustible. Hidráulico. Neumático. Protección contra hielo y lluvia. Instrumentación y navegación. Tren de aterrizaje. Sistema neumático. Sistema de oxígeno. Sistema de protección contra incendios. Sistema de combustible. Sistemas de protección contra hielo y lluvia. Sistemas de navegación. Comunicaciones. Hélices y accesorios. Tipos de funcionamiento. Overhaul.",
       "prerequisites": [
         "gestion de mantenimiento y reparacion I",
         "navegacion y control"
@@ -737,7 +737,7 @@
       "credits": 5,
       "required_credits": 0,
       "weekly_hours": 5,
-      "desc": "",
+      "desc": "Introducción. Balance de líneas (análisis de la producción). Líneas de multi-modelo. Líneas del Mezclar-Modelo. Balanceo de líneas de una planta de fabricación. Planeación y control de la producción análisis de inventario – problemas propuestos.",
       "prerequisites": [
         "gestion de mantenimiento y reparacion I",
         "probabilidad y estadistica"
